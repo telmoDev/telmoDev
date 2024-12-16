@@ -28,7 +28,7 @@ Me apasiona escribir código limpio y mantenible, con un fuerte énfasis en la *
 
 ## 🌐 Conéctate conmigo  
 - 🖥️ **Portfolio**: [telmo-ramirez.com](#)  
-- 💼 **LinkedIn**: [linkedin.com/in/telmo-ramirez-lara-803b67180](#)  
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/telmo-ramirez-lara-803b67180/](#)  
 - 📫 **Email**: telmodanielramirez@gmail.com  
 - 🐦 **Twitter**: [@telmo_dev](#)  
 
