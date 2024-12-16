@@ -16,13 +16,13 @@
 - ☁ **Cloud**: AWS, Laravel Vapor.  
 - 🔑 **Autenticación**: NextAuth, JWT, Amazon Cognito.  
 - 🚀 **DevOps**: Docker, CI/CD.  
-
+<!--
 ## 🚀 Proyectos destacados  
 - **[Nombre del proyecto 1](#)**  
   - Descripción breve del proyecto, tecnologías utilizadas y logros principales.  
 - **[Nombre del proyecto 2](#)**  
   - Descripción breve del proyecto, tecnologías utilizadas y logros principales.  
-
+-->
 ## 📈 Mi enfoque  
 Me apasiona escribir código limpio y mantenible, con un fuerte énfasis en la **arquitectura hexagonal** y las **buenas prácticas de diseño**. Siempre estoy buscando maneras de optimizar el rendimiento y la experiencia del usuario.  
 
