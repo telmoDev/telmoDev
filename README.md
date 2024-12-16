@@ -1,6 +1,6 @@
 # 💻 Telmo - Desarrollador de Software 🚀  
 
-¡Hola! Soy **Telmo**, un desarrollador de software apasionado por construir soluciones innovadoras y escalables. Tengo casi 4 años de experiencia en la industria, trabajando con tecnologías modernas y colaborando en proyectos desafiantes que generan impacto.  
+¡Hola! Soy **Telmo**, un desarrollador de software apasionado por construir soluciones innovadoras y escalables. Tengo casi 5 años de experiencia en la industria, trabajando con tecnologías modernas y colaborando en proyectos desafiantes que generan impacto.  
 
 ## 🌟 Sobre mí  
 - 🎯 **Especialización**: Desarrollo web y móvil con enfoque en arquitectura limpia y buenas prácticas.  
