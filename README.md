@@ -27,7 +27,7 @@
 Me apasiona escribir código limpio y mantenible, con un fuerte énfasis en la **arquitectura hexagonal** y las **buenas prácticas de diseño**. Siempre estoy buscando maneras de optimizar el rendimiento y la experiencia del usuario.  
 
 ## 🌐 Conéctate conmigo  
-- 🖥️ **Portfolio**: [telmo-ramirez.dev](telmo-ramirez.dev)  
+- 🖥️ **Portfolio**: [telmo-ramirez.dev](https://telmo-ramirez.dev/)  
 - 💼 **LinkedIn**: [Telmo Ramirez Lara](https://www.linkedin.com/in/telmo-ramirez-lara-803b67180/)  
 - 📫 **Email**: telmodanielramirez@gmail.com  
 
